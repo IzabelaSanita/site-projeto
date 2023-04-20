@@ -63,5 +63,14 @@
 }
 
 .social-icones{
-    width: 500px;
+    width: 130px;
+    padding: 30px 150px;
+}
+
+.rodape{
+    background-color: #410000;
+    color: white;
+    padding: 30px 20px;
+    font-size: 35px;
+    text-align: center;
 }
