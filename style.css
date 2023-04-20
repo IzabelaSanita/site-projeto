@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Inter', sans-serif;
 }
 
 .cabecalho{
@@ -24,17 +25,17 @@
 .escola{
     background-image: linear-gradient(#5090F0, #D95454);
     color: white;
-    padding: 100px 50px;
+    padding: 90px 4% 0px;
     font-size: 35px;
 }
 
-.escola-div-conteudo{
-    width: 60%;
-    padding: 20px;
+.escola-div{
+    width: 83%;
+    padding: 0px;
 }
 
 .escola-titulo{
-    padding: 0 0% 50px;
+    padding: 0 0% 55px;
 }
 
 .escola-texto-um{
@@ -47,4 +48,20 @@
 
 .escola-texto-tres{
     padding: 0 0% 35px;
+}
+
+.social{
+    background-color: #D95454;
+}
+
+.social-div{
+    text-align: center;
+}
+
+.social-alunos{
+    width: 950px;
+}
+
+.social-icones{
+    width: 500px;
 }
